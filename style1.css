@@ -61,8 +61,7 @@ section {
   background-position: center;  
   background-repeat: no-repeat;  
   border-radius: 20px; /* 添加圆角 */  
-  box-shadow: 0 0 20px rgba(204, 131, 198, 0.6); /* 添加阴影来模拟立体效果 */  
-  border: none; /* 如果需要的话，可以去掉原有的边框 */  
+  
 }
 
 footer {
